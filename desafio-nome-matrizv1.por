@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro tabela[3][6] = {
+		caracter tabela[3][6] = {
 			
 		{'j','o','a','o',' ',' '},{'p','a','u','l','o',' '},{'s','a','n','t','o','s'}
 		
@@ -23,7 +23,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 281; 
+ * @POSICAO-CURSOR = 48; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
